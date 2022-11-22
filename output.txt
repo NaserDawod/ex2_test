@@ -1,0 +1,669 @@
+Choose an option:
+1. octal to hex
+2. binary addition
+3. print HI
+4. count bits
+5. decimal to binary
+6. Zig-Zag bits
+7. exit
+Please enter number in octal base: 17A
+Choose an option:
+1. octal to hex
+2. binary addition
+3. print HI
+4. count bits
+5. decimal to binary
+6. Zig-Zag bits
+7. exit
+Please enter number in octal base: 0
+Choose an option:
+1. octal to hex
+2. binary addition
+3. print HI
+4. count bits
+5. decimal to binary
+6. Zig-Zag bits
+7. exit
+Please enter number in octal base: 1
+Choose an option:
+1. octal to hex
+2. binary addition
+3. print HI
+4. count bits
+5. decimal to binary
+6. Zig-Zag bits
+7. exit
+Please enter number in octal base: 12E
+Choose an option:
+1. octal to hex
+2. binary addition
+3. print HI
+4. count bits
+5. decimal to binary
+6. Zig-Zag bits
+7. exit
+Please enter number in octal base: Invalid input!
+Choose an option:
+1. octal to hex
+2. binary addition
+3. print HI
+4. count bits
+5. decimal to binary
+6. Zig-Zag bits
+7. exit
+Please enter number in octal base: 3F
+Choose an option:
+1. octal to hex
+2. binary addition
+3. print HI
+4. count bits
+5. decimal to binary
+6. Zig-Zag bits
+7. exit
+Please enter number in octal base: 8D5
+Choose an option:
+1. octal to hex
+2. binary addition
+3. print HI
+4. count bits
+5. decimal to binary
+6. Zig-Zag bits
+7. exit
+Please enter number in octal base: A81
+Choose an option:
+1. octal to hex
+2. binary addition
+3. print HI
+4. count bits
+5. decimal to binary
+6. Zig-Zag bits
+7. exit
+Please enter number in octal base: Invalid input!
+Choose an option:
+1. octal to hex
+2. binary addition
+3. print HI
+4. count bits
+5. decimal to binary
+6. Zig-Zag bits
+7. exit
+Please enter number in octal base: Invalid input!
+Choose an option:
+1. octal to hex
+2. binary addition
+3. print HI
+4. count bits
+5. decimal to binary
+6. Zig-Zag bits
+7. exit
+Please enter number in octal base: 72B3
+Choose an option:
+1. octal to hex
+2. binary addition
+3. print HI
+4. count bits
+5. decimal to binary
+6. Zig-Zag bits
+7. exit
+Please enter number in octal base: F6
+Choose an option:
+1. octal to hex
+2. binary addition
+3. print HI
+4. count bits
+5. decimal to binary
+6. Zig-Zag bits
+7. exit
+Please enter number in octal base: 602
+Choose an option:
+1. octal to hex
+2. binary addition
+3. print HI
+4. count bits
+5. decimal to binary
+6. Zig-Zag bits
+7. exit
+Please enter number in octal base: 7A72E
+Choose an option:
+1. octal to hex
+2. binary addition
+3. print HI
+4. count bits
+5. decimal to binary
+6. Zig-Zag bits
+7. exit
+Please enter number in octal base: 1
+Choose an option:
+1. octal to hex
+2. binary addition
+3. print HI
+4. count bits
+5. decimal to binary
+6. Zig-Zag bits
+7. exit
+Please enter number in octal base: BD
+Choose an option:
+1. octal to hex
+2. binary addition
+3. print HI
+4. count bits
+5. decimal to binary
+6. Zig-Zag bits
+7. exit
+Please enter two binary numbers: 1 + 1 = 10
+Choose an option:
+1. octal to hex
+2. binary addition
+3. print HI
+4. count bits
+5. decimal to binary
+6. Zig-Zag bits
+7. exit
+Please enter two binary numbers: 1 + 0 = 1
+Choose an option:
+1. octal to hex
+2. binary addition
+3. print HI
+4. count bits
+5. decimal to binary
+6. Zig-Zag bits
+7. exit
+Please enter two binary numbers: 0 + 0 = 0
+Choose an option:
+1. octal to hex
+2. binary addition
+3. print HI
+4. count bits
+5. decimal to binary
+6. Zig-Zag bits
+7. exit
+Please enter two binary numbers: Invalid input!
+Choose an option:
+1. octal to hex
+2. binary addition
+3. print HI
+4. count bits
+5. decimal to binary
+6. Zig-Zag bits
+7. exit
+Please enter two binary numbers: Invalid input!
+Choose an option:
+1. octal to hex
+2. binary addition
+3. print HI
+4. count bits
+5. decimal to binary
+6. Zig-Zag bits
+7. exit
+Please enter two binary numbers: 0 + 1 = 1
+Choose an option:
+1. octal to hex
+2. binary addition
+3. print HI
+4. count bits
+5. decimal to binary
+6. Zig-Zag bits
+7. exit
+Please enter two binary numbers: 1011 + 0001 = 1100
+Choose an option:
+1. octal to hex
+2. binary addition
+3. print HI
+4. count bits
+5. decimal to binary
+6. Zig-Zag bits
+7. exit
+Please enter two binary numbers: Invalid input!
+Choose an option:
+1. octal to hex
+2. binary addition
+3. print HI
+4. count bits
+5. decimal to binary
+6. Zig-Zag bits
+7. exit
+Please enter two binary numbers: 10011 + 11111 = 110010
+Choose an option:
+1. octal to hex
+2. binary addition
+3. print HI
+4. count bits
+5. decimal to binary
+6. Zig-Zag bits
+7. exit
+Please enter two binary numbers: 00010 + 10110 = 11000
+Choose an option:
+1. octal to hex
+2. binary addition
+3. print HI
+4. count bits
+5. decimal to binary
+6. Zig-Zag bits
+7. exit
+Please enter two binary numbers: 110011100110101 + 000000000001111 = 110011101000100
+Choose an option:
+1. octal to hex
+2. binary addition
+3. print HI
+4. count bits
+5. decimal to binary
+6. Zig-Zag bits
+7. exit
+Please enter two binary numbers: 001001101100011 + 100011100111111 = 101101010100010
+Choose an option:
+1. octal to hex
+2. binary addition
+3. print HI
+4. count bits
+5. decimal to binary
+6. Zig-Zag bits
+7. exit
+Please enter two binary numbers: 1111111111111 + 0000000000001 = 10000000000000
+Choose an option:
+1. octal to hex
+2. binary addition
+3. print HI
+4. count bits
+5. decimal to binary
+6. Zig-Zag bits
+7. exit
+Please enter two binary numbers: 110 + 111 = 1101
+Choose an option:
+1. octal to hex
+2. binary addition
+3. print HI
+4. count bits
+5. decimal to binary
+6. Zig-Zag bits
+7. exit
+Please enter two binary numbers: 1111 + 1111 = 11110
+Choose an option:
+1. octal to hex
+2. binary addition
+3. print HI
+4. count bits
+5. decimal to binary
+6. Zig-Zag bits
+7. exit
+Please enter two binary numbers: 111011 + 001011 = 1000110
+Choose an option:
+1. octal to hex
+2. binary addition
+3. print HI
+4. count bits
+5. decimal to binary
+6. Zig-Zag bits
+7. exit
+Please enter two binary numbers: 111111111111111 + 000000000001001 = 1000000000001000
+Choose an option:
+1. octal to hex
+2. binary addition
+3. print HI
+4. count bits
+5. decimal to binary
+6. Zig-Zag bits
+7. exit
+Please enter size: #######      ####### #######
+#*****#      #*****# #*****#
+#*****#      #*****# #*****#
+#*****#      #*****# #*****#
+#*****#      #*****# #*****#
+#*****#      #*****# #*****#
+#*****########*****# #*****#
+#******************# #*****#
+#******************# #*****#
+#******************# #*****#
+#******************# #*****#
+#******************# #*****#
+#*****########*****# #*****#
+#*****#      #*****# #*****#
+#*****#      #*****# #*****#
+#*****#      #*****# #*****#
+#*****#      #*****# #*****#
+#*****#      #*****# #*****#
+#######      ####### #######
+Choose an option:
+1. octal to hex
+2. binary addition
+3. print HI
+4. count bits
+5. decimal to binary
+6. Zig-Zag bits
+7. exit
+Please enter size: ######     ###### ######
+#****#     #****# #****#
+#****#     #****# #****#
+#****#     #****# #****#
+#****#     #****# #****#
+#****#######****# #****#
+#***************# #****#
+#***************# #****#
+#***************# #****#
+#***************# #****#
+#****#######****# #****#
+#****#     #****# #****#
+#****#     #****# #****#
+#****#     #****# #****#
+#****#     #****# #****#
+######     ###### ######
+Choose an option:
+1. octal to hex
+2. binary addition
+3. print HI
+4. count bits
+5. decimal to binary
+6. Zig-Zag bits
+7. exit
+Please enter size: Invalid input!
+Choose an option:
+1. octal to hex
+2. binary addition
+3. print HI
+4. count bits
+5. decimal to binary
+6. Zig-Zag bits
+7. exit
+Please enter size: ##########         ########## ##########
+#********#         #********# #********#
+#********#         #********# #********#
+#********#         #********# #********#
+#********#         #********# #********#
+#********#         #********# #********#
+#********#         #********# #********#
+#********#         #********# #********#
+#********#         #********# #********#
+#********###########********# #********#
+#***************************# #********#
+#***************************# #********#
+#***************************# #********#
+#***************************# #********#
+#***************************# #********#
+#***************************# #********#
+#***************************# #********#
+#***************************# #********#
+#********###########********# #********#
+#********#         #********# #********#
+#********#         #********# #********#
+#********#         #********# #********#
+#********#         #********# #********#
+#********#         #********# #********#
+#********#         #********# #********#
+#********#         #********# #********#
+#********#         #********# #********#
+##########         ########## ##########
+Choose an option:
+1. octal to hex
+2. binary addition
+3. print HI
+4. count bits
+5. decimal to binary
+6. Zig-Zag bits
+7. exit
+Please enter size: ###  ### ###
+#*#  #*# #*#
+#*####*# #*#
+#******# #*#
+#*####*# #*#
+#*#  #*# #*#
+###  ### ###
+Choose an option:
+1. octal to hex
+2. binary addition
+3. print HI
+4. count bits
+5. decimal to binary
+6. Zig-Zag bits
+7. exit
+Please enter a binary number: 3
+Choose an option:
+1. octal to hex
+2. binary addition
+3. print HI
+4. count bits
+5. decimal to binary
+6. Zig-Zag bits
+7. exit
+Please enter a binary number: 5
+Choose an option:
+1. octal to hex
+2. binary addition
+3. print HI
+4. count bits
+5. decimal to binary
+6. Zig-Zag bits
+7. exit
+Please enter a binary number: Invalid input!
+Choose an option:
+1. octal to hex
+2. binary addition
+3. print HI
+4. count bits
+5. decimal to binary
+6. Zig-Zag bits
+7. exit
+Please enter a binary number: 2
+Choose an option:
+1. octal to hex
+2. binary addition
+3. print HI
+4. count bits
+5. decimal to binary
+6. Zig-Zag bits
+7. exit
+Please enter a binary number: Invalid input!
+Choose an option:
+1. octal to hex
+2. binary addition
+3. print HI
+4. count bits
+5. decimal to binary
+6. Zig-Zag bits
+7. exit
+Please enter a binary number: 2
+Choose an option:
+1. octal to hex
+2. binary addition
+3. print HI
+4. count bits
+5. decimal to binary
+6. Zig-Zag bits
+7. exit
+Please enter a binary number: 5
+Choose an option:
+1. octal to hex
+2. binary addition
+3. print HI
+4. count bits
+5. decimal to binary
+6. Zig-Zag bits
+7. exit
+Please enter a binary number: 1
+Choose an option:
+1. octal to hex
+2. binary addition
+3. print HI
+4. count bits
+5. decimal to binary
+6. Zig-Zag bits
+7. exit
+Enter a non negative decimal number: 111
+Choose an option:
+1. octal to hex
+2. binary addition
+3. print HI
+4. count bits
+5. decimal to binary
+6. Zig-Zag bits
+7. exit
+Enter a non negative decimal number: 1011
+Choose an option:
+1. octal to hex
+2. binary addition
+3. print HI
+4. count bits
+5. decimal to binary
+6. Zig-Zag bits
+7. exit
+Enter a non negative decimal number: 10111110100
+Choose an option:
+1. octal to hex
+2. binary addition
+3. print HI
+4. count bits
+5. decimal to binary
+6. Zig-Zag bits
+7. exit
+Enter a non negative decimal number: 10011100011110
+Choose an option:
+1. octal to hex
+2. binary addition
+3. print HI
+4. count bits
+5. decimal to binary
+6. Zig-Zag bits
+7. exit
+Enter a non negative decimal number: Invalid input!
+Choose an option:
+1. octal to hex
+2. binary addition
+3. print HI
+4. count bits
+5. decimal to binary
+6. Zig-Zag bits
+7. exit
+Enter a non negative decimal number: 0
+Choose an option:
+1. octal to hex
+2. binary addition
+3. print HI
+4. count bits
+5. decimal to binary
+6. Zig-Zag bits
+7. exit
+Enter a non negative decimal number: 1
+Choose an option:
+1. octal to hex
+2. binary addition
+3. print HI
+4. count bits
+5. decimal to binary
+6. Zig-Zag bits
+7. exit
+Enter a non negative decimal number: 1111101000000
+Choose an option:
+1. octal to hex
+2. binary addition
+3. print HI
+4. count bits
+5. decimal to binary
+6. Zig-Zag bits
+7. exit
+Enter a non negative decimal number: 100101101011010000111
+Choose an option:
+1. octal to hex
+2. binary addition
+3. print HI
+4. count bits
+5. decimal to binary
+6. Zig-Zag bits
+7. exit
+Enter a non negative decimal number: 10011111010011001001
+Choose an option:
+1. octal to hex
+2. binary addition
+3. print HI
+4. count bits
+5. decimal to binary
+6. Zig-Zag bits
+7. exit
+Enter a non negative decimal number: Invalid input!
+Choose an option:
+1. octal to hex
+2. binary addition
+3. print HI
+4. count bits
+5. decimal to binary
+6. Zig-Zag bits
+7. exit
+Enter a non negative decimal number: false
+Choose an option:
+1. octal to hex
+2. binary addition
+3. print HI
+4. count bits
+5. decimal to binary
+6. Zig-Zag bits
+7. exit
+Enter a non negative decimal number: true
+Choose an option:
+1. octal to hex
+2. binary addition
+3. print HI
+4. count bits
+5. decimal to binary
+6. Zig-Zag bits
+7. exit
+Enter a non negative decimal number: true
+Choose an option:
+1. octal to hex
+2. binary addition
+3. print HI
+4. count bits
+5. decimal to binary
+6. Zig-Zag bits
+7. exit
+Enter a non negative decimal number: true
+Choose an option:
+1. octal to hex
+2. binary addition
+3. print HI
+4. count bits
+5. decimal to binary
+6. Zig-Zag bits
+7. exit
+Enter a non negative decimal number: false
+Choose an option:
+1. octal to hex
+2. binary addition
+3. print HI
+4. count bits
+5. decimal to binary
+6. Zig-Zag bits
+7. exit
+Enter a non negative decimal number: false
+Choose an option:
+1. octal to hex
+2. binary addition
+3. print HI
+4. count bits
+5. decimal to binary
+6. Zig-Zag bits
+7. exit
+Enter a non negative decimal number: false
+Choose an option:
+1. octal to hex
+2. binary addition
+3. print HI
+4. count bits
+5. decimal to binary
+6. Zig-Zag bits
+7. exit
+Enter a non negative decimal number: true
+Choose an option:
+1. octal to hex
+2. binary addition
+3. print HI
+4. count bits
+5. decimal to binary
+6. Zig-Zag bits
+7. exit
+Enter a non negative decimal number: false
+Choose an option:
+1. octal to hex
+2. binary addition
+3. print HI
+4. count bits
+5. decimal to binary
+6. Zig-Zag bits
+7. exit
+Bey!
