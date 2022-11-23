@@ -8,9 +8,11 @@ output.close()
 
 yourOut = open("yourOutput.txt")
 yourLines = yourOut.readlines()
+yourOut.close()
 
 inp = open("input.txt")
 inputLines = inp.readlines()
+inp.close()
 j = 0
 
 def fi(word, wordList):

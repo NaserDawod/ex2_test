@@ -12,20 +12,19 @@ int main() {
     int pid = fork();
     int stat;
     if(pid == 0){
-        execlp("gcc", "gcc", "-o", "test.out", "main.c",NULL);
+        execlp("gcc", "gcc", "-o", "test.out", "main.c", "-lm", "-std=c99", "-DNDEBUG",NULL);
         perror("Error in: execlp");
         exit(0);
     }
     wait(&stat);
     int input = open("input.txt", 'r');
-    int out = open("output.txt", O_CREAT | O_TRUNC | O_WRONLY, S_IRUSR | S_IWUSR | S_IRGRP | S_IWGRP | S_IROTH | S_IWOTH);
+    int out = open("yourOutput.txt", O_CREAT | O_TRUNC | O_WRONLY, S_IRUSR | S_IWUSR | S_IRGRP | S_IWGRP | S_IROTH | S_IWOTH);
     dup2(input, 0);
     dup2(out, 1);
     pid = fork();
     if(pid == 0){
         execlp("./test.out", "./test.out",NULL);
         perror("Error in: execlp");
-        exit(0);
     }
     wait(&stat);
     close(input);

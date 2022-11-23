@@ -1,9 +1,17 @@
 #include <stdio.h>
-#include <math.h>
 
 #define HEXA_BASE 16
 #define DECIMAL_BASE 10
 #define OCTAL_BASE 8
+
+int pow2(int x, int y) {
+    int s = 1;
+    while (y > 0) {
+        s *= x;
+        --y;
+    }
+    return s;
+}
 
 int main() {
     int choice;
@@ -53,7 +61,7 @@ int main() {
                         copy /= DECIMAL_BASE;
                     }
                     for (int i = numLen - 1; i >= 0; --i, oct /= DECIMAL_BASE) { /* convert the number from octal to decimal */
-                        decimalNum += oct % DECIMAL_BASE * (pow(OCTAL_BASE, i));
+                        decimalNum += oct % DECIMAL_BASE * (pow2(OCTAL_BASE, i));
                     }
                     numLen = 0;
                     copy = decimalNum;
@@ -77,6 +85,10 @@ int main() {
             case 2:
                 printf("Please enter two binary numbers: ");
                 scanf(" %llu %llu", &num1, &num2);
+                if (num1 == 0 && num2 == 0) {
+                    printf("0 + 0 = 0\n");
+                    break;
+                }
                 checkValidUnsigned = num1;
                 checkValid = 1;
                 while (checkValidUnsigned != 0) { /* scan the first number to check if all the digits are 0/1 (valid)*/
@@ -204,7 +216,7 @@ int main() {
                     count += binNum % DECIMAL_BASE;
                     binNum /= DECIMAL_BASE;
                 }
-                printf("%d", count);
+                printf("%d\n", count);
                 break;
             case 5:
                 printf("Enter a non negative decimal number: ");
