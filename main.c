@@ -147,13 +147,14 @@ int main() {
                     sum += i;
                 }
                 if (num1Len > num2Len){
-                    printf("%llu + ", num1Copy);
                     while (num1Len > num2Len) {
                         num2Len++;
                         printf("0");
                     }
                     if (num2Copy != 0)
                         printf("%llu", num2Copy);
+                    printf(" + ");
+                    printf("%llu", num1Copy);
                     printf(" = ");
                 } else {
                     while (num1Len < num2Len) {
@@ -225,6 +226,7 @@ int main() {
                     printf("Invalid input!\n");
                     break;
                 }
+                printf("%d => ", binNum);
                 if (binNum == 0) {
                     printf("0\n");
                     break;
@@ -276,3 +278,4 @@ int main() {
     } while (choice != 7);
     return 0;
 }
+
